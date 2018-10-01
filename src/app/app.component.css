@@ -1,0 +1,21 @@
+.header {
+    height: 60px;
+    background-color: #261920;
+
+    display: flex;
+}
+
+.header__element {
+    display: flex;
+
+    align-items: center;
+    justify-content: center;
+}
+
+.header__title {
+    font-size: 25px;
+    font-weight: 700;
+    color: #fff;
+
+    padding: 0 45px;
+}
